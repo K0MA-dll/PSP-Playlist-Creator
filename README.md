@@ -7,6 +7,11 @@
 
 Automatically generate PSP `.m3u8` playlists from your music folders. Scans subfolders, copies audio files to your PSP, and creates one playlist per folder with natural sorting and multi-format support.
 
+<p align="center">
+  <a href="https://github.com/K0MA-dll/PSP-Playlist-Creator/releases/latest">
+    <img src="https://img.shields.io/badge/⬇%20DOWNLOAD-EXE-blue?style=for-the-badge&logo=github">
+  </a>
+</p>
 
 # ✨ Features
 
