@@ -58,12 +58,12 @@ Example:
 
 ```txt
 Music/
-├── Initial D/
-│   ├── Deja Vu.mp3
-│   ├── Running in the 90s.mp3
+├── Playlist 1/
+│   ├── Song 1.mp3
+│   ├── Song 2.mp3
 │
-├── Daft Punk/
-│   ├── One More Time.mp3
+├── Playlist 2/
+│   ├── Song 1.mp3
 ```
 
 
@@ -91,14 +91,14 @@ The program will automatically:
 Generated file:
 
 ```txt
-PSP/PLAYLIST/MUSIC/Initial D.m3u8
+PSP/PLAYLIST/MUSIC/Playlist 1.m3u8
 ```
 
 Content:
 
 ```txt
-\MUSIC\Deja Vu.mp3
-\MUSIC\Running in the 90s.mp3
+\MUSIC\Song 1.mp3
+\MUSIC\Song 2.mp3
 ```
 
 
