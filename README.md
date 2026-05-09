@@ -7,11 +7,6 @@
 
 Automatically generate PSP `.m3u8` playlists from your music folders. Scans subfolders, copies audio files to your PSP, and creates one playlist per folder with natural sorting and multi-format support.
 
-<p align="center">
-  Automatically generate PSP playlists from your music folders 🎧
-</p>
-
----
 
 # ✨ Features
 
@@ -24,7 +19,6 @@ Automatically generate PSP `.m3u8` playlists from your music folders. Scans subf
 * 🖥️ Simple modern PyQt6 interface
 * 📀 Multi-format audio support
 
----
 
 # 📦 Supported Formats
 
@@ -36,7 +30,6 @@ Automatically generate PSP `.m3u8` playlists from your music folders. Scans subf
 .m4a
 ```
 
----
 
 # 🚀 How It Works
 
@@ -51,7 +44,6 @@ Required folders:
 /VIDEO
 ```
 
----
 
 ## 2️⃣ Select your music folder
 
@@ -69,7 +61,6 @@ Music/
 │   ├── One More Time.mp3
 ```
 
----
 
 ## 3️⃣ Click "Generate Playlists"
 
@@ -89,7 +80,6 @@ The program will automatically:
 /PSP_ROOT/PSP/PLAYLIST/MUSIC/
 ```
 
----
 
 # 📜 Example Playlist
 
@@ -106,7 +96,6 @@ Content:
 \MUSIC\Running in the 90s.mp3
 ```
 
----
 
 # ⚙️ Installation
 
@@ -119,17 +108,15 @@ pip install PyQt6
 ## ▶️ Run the application
 
 ```bash
-python main.py
+python PSP Playlist Creator.py
 ```
 
----
 
 # 🛠️ Built With
 
 * 🐍 Python
 * 🖼️ PyQt6
 
----
 
 # 📌 Notes
 
@@ -143,7 +130,7 @@ python main.py
 # 📸 Screenshot
 
 ```md
-![Screenshot](screenshot.png)
+<img width="1919" height="1079" alt="screen" src="https://github.com/user-attachments/assets/e7cb1a3c-2dee-4c49-8275-9cfaeed19036" />
 ```
 
 ---
