@@ -1,5 +1,4 @@
 ![Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python)
-![FFmpeg](https://img.shields.io/badge/FFmpeg-enabled-green?logo=ffmpeg)
 ![Status](https://img.shields.io/badge/status-stable-brightgreen)
 ![Platform](https://img.shields.io/badge/platform-windows-lightgrey)
 
